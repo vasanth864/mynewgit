@@ -7,3 +7,4 @@ good
 new changes done in github file
 >>>>>>> 1e3220497cd7833197a125e1af3a461946a58f5a
 new commit
+new line added
