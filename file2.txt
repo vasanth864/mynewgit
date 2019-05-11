@@ -9,3 +9,4 @@ new changes done in github file
 new commit
 new line added
 using pull
+added new line by user2
